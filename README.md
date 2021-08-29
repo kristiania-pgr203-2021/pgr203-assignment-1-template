@@ -2,7 +2,7 @@
 
 ## Oppgave
 
-Lag et program som kan skrive ut tall som romertall. Programmet skal fungere med enhetstester og skal også kunne ta imot et input fra brukeren.
+Lag et program som kan skrive ut tall som [romertall](https://no.wikipedia.org/wiki/Romertall). Programmet skal fungere med enhetstester og skal også kunne ta imot et input fra brukeren.
 
 ### Eksempel på bruk
 
@@ -45,6 +45,7 @@ Det anbefales at dere bruker Discord og Github for remote parprogrammering og ta
   * [ ] Koden inneholder en testklasse med 4-7 testmetoder
   * [ ] Klassenavn, pakkenavn, metodenavn og variabelnavn skal følge Java-konvensjoner når det gjelder små og store bokstaver
   * [ ] Koden skal være korrekt indentert
+  * [ ] Koden kan oversette alle romertall fra 1-3999 (fra I til MMMCMXCIX)
 * README-fil
   * [ ] Link til video av parprogrammering
   * [ ] Korrekt GitHub Actions status badge
